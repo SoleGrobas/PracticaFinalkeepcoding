@@ -1,5 +1,7 @@
 # PracticaFinal KeepCoding - Mujeres en Tech II
-<p align="center"><img src="[YDT LOGO.png](https://github.com/SoleGrobas/PracticaFinalkeepcoding/blob/bb2094afb773aa917991cbd74c13ab5fde6ddf63/YDT%20LOGO.png)" alt="Yellow Data Team"></p>
+<p align="center">
+  <img src="https://github.com/SoleGrobas/PracticaFinalkeepcoding/raw/main/YDT%20LOGO.png" alt="Yellow Data Team">
+</p>
 <h4>Somos un equipo de trabajo multidisciplinar formado para realizar en conjunto la Práctica Final del Curso Glovo+KeepCoding Mujeres en Tech II. Nuestro objetivo en esta práctica es demostrar los conocimientos adquiridos, así como desarrollar un modelo que nos permita predecir el precio de un alojamiento turístico en Madrid. </h4>
 <br>
 <h4>Equipo</h4>
